@@ -53,12 +53,9 @@
   "main": "craco.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harshalyadav/BookMyShow.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Harshalyadav/BookMyShow/issues"
-  },
-  "homepage": "https://github.com/Harshalyadav/BookMyShow#readme"
+  "homepage": ""
 }
